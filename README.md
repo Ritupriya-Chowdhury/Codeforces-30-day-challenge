@@ -10,5 +10,9 @@
 
 # I'm sorry 🙏. Because I came back more than 10 days later, I couldn't continue my consistency 😔. But, starting today, I want to begin a new challenge: 5 days, 50 problems 💪🔥.
 ## Day-1 (26/09/2026 - Monday)
-### 6-15 800 rating problems
-
+### 6-10 800 rating problems
+- **6`)`** [Domino piling](https://codeforces.com/problemset/problem/50/A)
+- **7`)`** [Beautiful Matrix](https://codeforces.com/problemset/problem/263/A)
+- **8`)`** [Petya and Strings](https://codeforces.com/problemset/problem/112/A)
+- **9`)`** [Boy or Girl](https://codeforces.com/problemset/problem/236/A)
+- **10`)`** [Helpful Maths](https://codeforces.com/problemset/problem/339/A)

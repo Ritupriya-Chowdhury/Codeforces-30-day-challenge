@@ -16,3 +16,16 @@
 - **8`)`** [Petya and Strings](https://codeforces.com/problemset/problem/112/A)
 - **9`)`** [Boy or Girl](https://codeforces.com/problemset/problem/236/A)
 - **10`)`** [Helpful Maths](https://codeforces.com/problemset/problem/339/A)
+
+## Day-2 (27/09/2026 - Tuesday)
+### 11-20 800 rating problems
+- **11`)`** [Word Capitalization](https://codeforces.com/problemset/problem/281/A)
+- **12`)`** [Bear and Big Brother](https://codeforces.com/problemset/problem/791/A)
+- **13`)`** [Elephant](https://codeforces.com/problemset/problem/617/A)
+- **14`)`** [Stones on the Table](https://codeforces.com/problemset/problem/266/A)
+- **15`)`** [Soldier and Bananas](https://codeforces.com/problemset/problem/546/A)
+- **16`)`** [Word](https://codeforces.com/problemset/problem/59/A)
+- **17`)`** [Wrong Subtraction](https://codeforces.com/problemset/problem/977/A)
+- **18`)`** [Nearly Lucky Number](https://codeforces.com/problemset/problem/110/A)
+- **19`)`** [Anton and Danik](https://codeforces.com/problemset/problem/734/A)
+- **20`)`** [Translation](https://codeforces.com/problemset/problem/41/A)

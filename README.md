@@ -17,7 +17,7 @@
 - **9`)`** [Boy or Girl](https://codeforces.com/problemset/problem/236/A)
 - **10`)`** [Helpful Maths](https://codeforces.com/problemset/problem/339/A)
 
-## Day-2 (27/09/2026 - Tuesday)
+## Day-2 (27/09/2026 - Sunday)
 ### 11-20 800 rating problems
 - **11`)`** [Word Capitalization](https://codeforces.com/problemset/problem/281/A)
 - **12`)`** [Bear and Big Brother](https://codeforces.com/problemset/problem/791/A)
@@ -29,3 +29,16 @@
 - **18`)`** [Nearly Lucky Number](https://codeforces.com/problemset/problem/110/A)
 - **19`)`** [Anton and Danik](https://codeforces.com/problemset/problem/734/A)
 - **20`)`** [Translation](https://codeforces.com/problemset/problem/41/A)
+
+## Day-3 (30/09/2026 - Wednesday)
+### 21-25 800 rating problems
+- **21`)`** [Vanya and Fence](https://codeforces.com/problemset/problem/677/A)
+- **22`)`** [Beautiful Year](https://codeforces.com/problemset/problem/271/A)
+- **23`)`** [Tram](https://codeforces.com/problemset/problem/116/A)
+- **24`)`** [In Search of an Easy Problem](https://codeforces.com/problemset/problem/1030/A)
+- **25`)`** [Queue at the School](https://codeforces.com/problemset/problem/266/B)
+- **26`)`** [George and Accommodation](https://codeforces.com/problemset/problem/467/A)
+- **27`)`** [Calculating Function](https://codeforces.com/problemset/problem/486/A)
+- **28`)`** [Magnets](https://codeforces.com/problemset/problem/344/A)
+- **29`)`** [Drinks](https://codeforces.com/problemset/problem/200/B)
+- **30`)`** [Presents](https://codeforces.com/problemset/problem/136/A)

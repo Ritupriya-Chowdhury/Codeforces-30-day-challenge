@@ -31,7 +31,7 @@
 - **20`)`** [Translation](https://codeforces.com/problemset/problem/41/A)
 
 ## Day-3 (30/09/2026 - Wednesday)
-### 21-25 800 rating problems
+### 21-30 800 rating problems
 - **21`)`** [Vanya and Fence](https://codeforces.com/problemset/problem/677/A)
 - **22`)`** [Beautiful Year](https://codeforces.com/problemset/problem/271/A)
 - **23`)`** [Tram](https://codeforces.com/problemset/problem/116/A)
@@ -42,3 +42,16 @@
 - **28`)`** [Magnets](https://codeforces.com/problemset/problem/344/A)
 - **29`)`** [Drinks](https://codeforces.com/problemset/problem/200/B)
 - **30`)`** [Presents](https://codeforces.com/problemset/problem/136/A)
+
+## Day-4 (01/10/2026 - Thursday)
+### 31-40 800 rating problems
+- **31`)`** [Is your horseshoe on the other hoof?](https://codeforces.com/problemset/problem/677/A)
+- **32`)`** [Ultra-Fast Mathematician](https://codeforces.com/problemset/problem/61/A)
+- **33`)`** [Divisibility Problem](https://codeforces.com/problemset/problem/1328/A)
+- **34`)`** [Hulk](https://codeforces.com/problemset/problem/705/A)
+- **35`)`** [Pangram](https://codeforces.com/problemset/problem/520/A)
+- **36`)`** [Arrival of the General](https://codeforces.com/problemset/problem/144/A)
+- **37`)`** [I Wanna Be the Guy](https://codeforces.com/problemset/problem/469/A)
+- **38`)`** [Hit the Lottery](https://codeforces.com/problemset/problem/996/A)
+- **39`)`** [Anton and Letters](https://codeforces.com/problemset/problem/443/B)
+- **40`)`** [Insomnia cure](https://codeforces.com/problemset/problem/148/A)

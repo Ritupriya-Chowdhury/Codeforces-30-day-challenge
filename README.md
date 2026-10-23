@@ -55,3 +55,16 @@
 - **38`)`** [Hit the Lottery](https://codeforces.com/problemset/problem/996/A)
 - **39`)`** [Anton and Letters](https://codeforces.com/problemset/problem/443/B)
 - **40`)`** [Insomnia cure](https://codeforces.com/problemset/problem/148/A)
+
+## Day-5 (08/10/2026 - Thursday)
+### 41-50 800 rating problems
+- **41`)`** [Anton and Polyhedrons](https://codeforces.com/problemset/problem/785/A)
+- **42`)`** [Sum](https://codeforces.com/problemset/problem/1742/A)
+- **43`)`** [Fox And Snake](https://codeforces.com/problemset/problem/510/A)
+- **44`)`** [Sum of Round Numbers](https://codeforces.com/problemset/problem/1352/A)
+- **45`)`** [Candies and Two Sisters](https://codeforces.com/problemset/problem/1335/A)
+- **46`)`** [Hey, It's Me, Souvlakity](https://codeforces.com/problemset/problem/2261/A)
+- **47`)`** [Robot Odd Moves](https://codeforces.com/problemset/problem/2271/A)
+- **48`)`** [Games](https://codeforces.com/problemset/problem/268/A)
+- **49`)`** [Anton and Letters](https://codeforces.com/problemset/problem/443/B)
+- **50`)`** [Insomnia cure](https://codeforces.com/problemset/problem/148/A)

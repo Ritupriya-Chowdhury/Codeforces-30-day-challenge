@@ -66,5 +66,14 @@
 - **46`)`** [Hey, It's Me, Souvlakity](https://codeforces.com/problemset/problem/2261/A)
 - **47`)`** [Robot Odd Moves](https://codeforces.com/problemset/problem/2271/A)
 - **48`)`** [Games](https://codeforces.com/problemset/problem/268/A)
-- **49`)`** [Anton and Letters](https://codeforces.com/problemset/problem/443/B)
-- **50`)`** [Insomnia cure](https://codeforces.com/problemset/problem/148/A)
+- **49`)`** [Game with Integers](https://codeforces.com/problemset/problem/1899/A)
+- **50`)`** [Amusing Joke](https://codeforces.com/problemset/problem/141/A)
+
+
+# 10 days 50 qn.
+## Day 1 (03/11/2026-> Tuesday)
+- **51`)`** [The New Year: Meeting Friends](https://codeforces.com/problemset/problem/723/A)
+- **52`)`** [YES or YES?](https://codeforces.com/problemset/problem/1703/A)
+- **53`)`** [String Task](https://codeforces.com/problemset/problem/118/A)
+- **54`)`** [Football](https://codeforces.com/problemset/problem/96/A)
+- **55`)`** [Again Twenty Five!](https://codeforces.com/problemset/problem/630/A) (Easiest)
